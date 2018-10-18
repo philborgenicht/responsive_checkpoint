@@ -1,0 +1,18 @@
+img{
+  width: 100px;
+  
+}
+
+.container{
+  margin-top: 50px;
+  margin-bottom: 120px;
+}
+
+footer{
+  padding: 100px;
+  background-color: dimgray;
+}
+
+.contact-info{
+  text-align: right;
+}
